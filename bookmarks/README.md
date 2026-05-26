@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-05-26T03:22:52.988Z
+> Last synced: 2026-05-26T03:22:54.378Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
